@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-Here are some ideas to get you started:
 - 🔭 I’m currently working on a learning platform for students like me as well as a program to allow laser cutter designs to be drawn and editted in a VR enviromnent
 - 🌱 I’m currently learning Software Engineering
 - 👯 I’m looking to collaborate on projects involved in the AI sphere
